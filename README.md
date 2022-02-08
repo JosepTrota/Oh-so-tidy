@@ -9,7 +9,8 @@ I'm planning to order ALL my repos and github files sometime this week (wish me 
 
 ***
 
-God knows github is not very intuitive, at least in the beginning. I can give it utility points though.
+God knows github is not very beginner friendly. Maybe I can give it utility points though.
+
 ![alt text](https://github.com/JosepTrota/Oh-so-tidy/blob/main/For%20the%20very%20serious%20readme/here-have-a-cookie-30238459.png "You discovered the title remainder text. Hooray! You can have TWO cookies ;)")
 
 ***
@@ -23,7 +24,7 @@ God knows github is not very intuitive, at least in the beginning. I can give it
 #### TO-DO LIST
 This week | This month | To summer and beyond
 --- | --- | ---
-Order in my github | Meditation | Get a job (please)
+Put some order in my github | Meditation | Get a job (please)
 Get sleep | Exercise | Get fit
 Take care of myself | Better eating habits | Return to some language learning
 Clean my room | Give it all in the mid bootcamp project | Keep in touch with the ironhack data crowd
@@ -35,7 +36,7 @@ Lastly, a funny video for some hehes to be had
 [![IMAGE ALT TEXT HERE (shhhhh it's a secret, if you want more cookies don't tell anyone)](https://github.com/JosepTrota/Oh-so-tidy/blob/main/For%20the%20very%20serious%20readme/ramsey%20orinj.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ***
-
+[~~you lost the game~~](http://ilostthegame.org/)
 ***
 
 
