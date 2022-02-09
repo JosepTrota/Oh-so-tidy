@@ -3,10 +3,24 @@
 
 ***
 
-I know, I know, it is small, and the title and this readme so far are not looking very employable... *but*
+> I know, I know, it is small, and the title and this readme so far are not looking very employable... *but*
 
-I'm planning to order ALL my repos and github files sometime this week (wish me luck)
+> I'm planning to order ALL my repos and github files sometime this week (wish me luck)
 
+***
+***
+
+
+In this repo you can find the code used to **merge** some messy data together and **clean it** afterwards.
+
+
+We used the health for all data, that was spread through 4 files of different type and format, and also used some self searched data about pollution levels in Paris.
+
+
+This was so far back in time that doesn't seem to be hard anymore, but at the time it was a challenge.
+
+
+***
 ***
 
 God knows github is not very beginner friendly. Maybe I can give it utility points though.
