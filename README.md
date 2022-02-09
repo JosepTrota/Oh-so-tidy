@@ -3,9 +3,7 @@
 
 ***
 
-> I know, I know, it is small, and the title and this readme so far are not looking very employable... *but*
-
-> I'm planning to order ALL my repos and github files sometime this week (wish me luck)
+> I know, I know, it is small, and the title and this readme so far are not looking very employable... *but*... I'm planning to order ALL my repos and github files sometime this week (wish me luck)
 
 ***
 ***
