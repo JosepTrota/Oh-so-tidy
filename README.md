@@ -12,13 +12,19 @@
 ***
 
 
-In this repo you can find the code used to **merge** some messy data together and **clean it** afterwards.
+In this repo you can find the code used to **explore** the Sakila database, **train** a model to infer the ratings of a film using the description and **save** the vectorizer, the tf_transformer and the model in appropiate labeled folders afterwards using **pickle**.
 
 
-We used the health for all data, that was spread through 4 files of different type and format, and also used some self searched data about pollution levels in Paris.
+We used the Sakila database extracted from mySQL through a query engine and then worked with the data:
+* Convert ratings into a binary category with a function
+* Got rid of nulls
+* Chunked all the descriptions in tasty word bits and dummified them
+* We split the data into X and y, train and test, yadda yadda yadda
+* Trained a logistic regression model and run it
+* Use Pickle to save them
+* Enjoy
 
-
-This was so far back in time that doesn't seem to be hard anymore, but at the time it was a challenge.
+Fun times indeed.
 
 
 ***
